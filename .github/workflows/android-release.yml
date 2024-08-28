@@ -1,3 +1,5 @@
+name: First Flutter CI/CD
+
 # 1
 on:
   # 2
